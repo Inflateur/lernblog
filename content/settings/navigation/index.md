@@ -6,7 +6,6 @@ title = "Home"
 url = "/"
 
 [[link]]
-title = "Über mich"
+title = "Über den Inflateur von Irrenanstalt Bern"
 url = "/ueber/"
 +++
-
